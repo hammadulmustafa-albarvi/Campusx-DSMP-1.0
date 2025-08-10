@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Api Fetcher</title>
+</head>
+<body>
+  <form action="/teamvsteam" method="get">
+    <label>Enter Team 1</label><br><br>
+    <select name='team1'> 
+          {%for i in ans%}  
+        <option>{{ i }}</option>
+          {%endfor%} 
+    </select><br><br>
+    <label>Enter Team 2</label><br><br>
+        <select name="team2">
+          {%for i in ans%}  
+        <option id="2">{{ i }}</option>
+          {%endfor%}      
+    </select><br><br>
+<input type="submit" value="Submit data">
+  </form>
+  
+  <h3>Result</h3>
+  {%for i in result%}
+  <h5>{{ i }} : {{ result[i] }}</h5>
+  {%endfor%}
+</body>
+</html>
