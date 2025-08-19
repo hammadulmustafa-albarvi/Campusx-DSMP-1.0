@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>Nlp App</title>
+</head>
+<body>
+    <h1>Register</h1><br><br>
+
+    {%if info%}
+    <p style="color: red">{{info}}</p>
+    {%endif%}
+
+    <form action="/register_backend" method="post">
+        <label>Enter Name</label><br><br>
+        <input type="text" name="name"><br><br>
+        <label>Enter Email</label><br><br>
+        <input type="email" name="email"><br><br>
+        <label>Enter Password</label><br><br>
+        <input type="password" name="password"><br><br>
+        <input type="submit" value="Register"><br><br>
+    </form>
+    <p>Already Registered <a href="/">Login</a></p>
+</body>
+</html>

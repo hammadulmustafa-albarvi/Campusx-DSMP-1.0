@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>Nlp App</title>
+</head>
+<body>
+    <h1>Named Entity Recognition</h1><br><br>
+
+
+    <form action="/ner_backend" method="post">
+        <label>Enter entity to Search </label><br><br>
+        <input type="text" name="search"><br><br>
+        <label>Enter Text</label><br><br>
+        <textarea name="text"></textarea><br><br>
+        <input type="submit" value="Perform NER"><br><br>
+    </form>
+    {%if ans%}
+    <h2>Result</h2><br><br>
+    <pre>{{ans}}</pre><br><br>
+    {%endif%}
+</body>
+</html>
