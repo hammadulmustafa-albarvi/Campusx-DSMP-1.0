@@ -1,0 +1,621 @@
+,id,wikiDataId,type,city,name,country,countryCode,region,regionCode,regionWdId,latitude,longitude,population
+0,3350606,Q24668,CITY,Aixirivall,Aixirivall,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.46245,1.50209,1025
+1,3216144,Q24656,CITY,Aixovall,Aixovall,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.47635833,1.48949167,69
+2,3406038,Q4699394,CITY,Aixàs,Aixàs,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.48638889,1.46722222,0
+3,397,Q1863,CITY,Andorra la Vella,Andorra la Vella,Andorra,AD,Andorra la Vella,07,Q2522163,42.507222222,1.522222222,24042
+4,3360277,Q24475,CITY,Ansalonga,Ansalonga,Andorra,AD,Ordino,05,Q24272,42.568443,1.521571,0
+5,3341362,Q24551,CITY,Anyós,Anyós,Andorra,AD,La Massana,04,Q24276,42.53459167,1.54165,1006
+6,3361293,Q24478,CITY,Arans,Arans,Andorra,AD,Ordino,05,Q24272,42.58333333,1.51666667,0
+7,866,Q24554,CITY,Arinsal,Arinsal,Andorra,AD,La Massana,04,Q24276,42.57198,1.4847,1419
+8,3394034,Q24650,CITY,Aubinyà,Aubinyà,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.4528,1.493,0
+9,3292906,Q24641,CITY,Bixessarri,Bixessarri,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.48251111,1.45860833,0
+10,3481376,Q4944722,CITY,Bordes d'Envalira,Bordes d'Envalira,Andorra,AD,Canillo,02,Q24260,42.56666667,1.61666667,0
+11,3641313,Q386802,CITY,Canillo,Canillo,Andorra,AD,Canillo,02,Q24260,42.566667,1.6,3292
+12,3852308,Q5034280,CITY,Canòlic,Canòlic,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.47444444,1.45194444,0
+13,3403329,Q24630,CITY,Certés,Certés,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.47527778,1.50583333,0
+14,3851202,Q24379,CITY,El Forn,El Forn,Andorra,AD,Canillo,02,Q24260,42.53333333,1.56666667,99
+15,408,Q24456,CITY,El Pas de la Casa,El Pas de la Casa,Andorra,AD,Encamp,03,Q24269,42.54277,1.73361,1927
+16,3206457,Q24490,CITY,El Serrat,El Serrat,Andorra,AD,Ordino,05,Q24272,42.618123,1.538225,0
+17,614,Q24413,CITY,El Tarter,El Tarter,Andorra,AD,Canillo,02,Q24260,42.58333333,1.65,747
+18,3354198,Q24411,CITY,El Vilar,El Vilar,Andorra,AD,Canillo,02,Q24260,42.56666667,1.6,0
+19,3489827,Q24417,CITY,Els Plans,Els Plans,Andorra,AD,Canillo,02,Q24260,42.580603,1.635486,38
+20,3496486,Q1154347,CITY,Els Vilars d'Engordany,Els Vilars d'Engordany,Andorra,AD,Escaldes-Engordany,08,Q24286,42.51636,1.53356,0
+21,3910222,Q989558,CITY,Encamp,Encamp,Andorra,AD,Encamp,03,Q24269,42.51666667,1.56666667,11223
+22,3851452,Q746899,CITY,Engolasters,Engolasters,Andorra,AD,Escaldes-Engordany,08,Q24286,42.51147,1.560467,0
+23,3200831,Q586510,CITY,Engordany,Engordany,Andorra,AD,Escaldes-Engordany,08,Q24286,42.511830555,1.540075,0
+24,3282473,Q24556,CITY,Erts,Erts,Andorra,AD,La Massana,04,Q24276,42.56361111,1.495,0
+25,3356743,Q24566,CITY,Escàs,Escàs,Andorra,AD,La Massana,04,Q24276,42.55,1.51666667,0
+26,3482283,Q24629,CITY,Fontaneda,Fontaneda,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.4539,1.4575,110
+27,3228107,Q24388,CITY,Incles,Incles,Andorra,AD,Canillo,02,Q24260,42.583,1.662,510
+28,3420693,Q24625,CITY,Juberri,Juberri,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.438888888,1.491944444,0
+29,2987553,Q24371,CITY,L'Aldosa de Canillo,L'Aldosa de Canillo,Andorra,AD,Canillo,02,Q24260,42.57777778,1.61944444,289
+30,3467153,Q24540,CITY,L'Aldosa de la Massana,L'Aldosa de la Massana,Andorra,AD,La Massana,04,Q24276,42.54391,1.52289,594
+31,3852981,Q6455591,CITY,L'Armiana,L'Armiana,Andorra,AD,Canillo,02,Q24260,42.53333333,1.56666667,0
+32,3086756,Q24486,CITY,La Cortinada,La Cortinada,Andorra,AD,Ordino,05,Q24272,42.57667,1.51773,845
+33,3056764,Q2536296,CITY,La Margineda,La Margineda,Andorra,AD,Andorra la Vella,07,Q2522163,42.4859,1.49045,155
+34,3679189,Q3820973,CITY,La Massana,La Massana,Andorra,AD,La Massana,04,Q24276,42.544354,1.515427,7211
+35,3264421,Q24447,CITY,Les Bons,Les Bons,Andorra,AD,Encamp,03,Q24269,42.53333333,1.58333333,0
+36,759,Q1050185,CITY,Les Escaldes,Les Escaldes,Andorra,AD,Escaldes-Engordany,08,Q24286,42.5,1.53333333,15853
+37,3383502,Q24483,CITY,Llorts,Llorts,Andorra,AD,Ordino,05,Q24272,42.596389,1.526638,0
+38,3299914,Q24622,CITY,Llumeneres,Llumeneres,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.4725,1.51111111,5
+39,3280253,Q24390,CITY,Meritxell,Meritxell,Andorra,AD,Canillo,02,Q24260,42.55416667,1.59055556,69
+40,3326276,Q6896400,CITY,Molleres,Molleres,Andorra,AD,Canillo,02,Q24260,42.55,1.58333333,0
+41,3199570,Q24611,CITY,Nagol,Nagol,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.47111111,1.50333333,63
+42,3648572,Q3885480,CITY,Ordino,Ordino,Andorra,AD,Ordino,05,Q24272,42.555,1.53306,3066
+43,3300956,Q24558,CITY,Pal,Pal,Andorra,AD,La Massana,04,Q24276,42.55,1.48333333,235
+44,3495353,Q24415,CITY,Prats,Prats,Andorra,AD,Canillo,02,Q24260,42.560397,1.593975,0
+45,3323791,Q24392,CITY,Ransol,Ransol,Andorra,AD,Canillo,02,Q24260,42.58333333,1.63333333,0
+46,3593476,Q1120573,CITY,Sant Julià de Lòria,Sant Julià de Lòria,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.46666667,1.5,8022
+47,3077529,Q24597,CITY,Santa Coloma d'Andorra,Santa Coloma d'Andorra,Andorra,AD,Andorra la Vella,07,Q2522163,42.493897222,1.497683333,3002
+48,3199670,Q24499,CITY,Segudet,Segudet,Andorra,AD,Ordino,05,Q24272,42.55,1.53333333,0
+49,3437048,Q24562,CITY,Sispony,Sispony,Andorra,AD,La Massana,04,Q24276,42.53333333,1.51666667,833
+50,2996424,Q24398,CITY,Soldeu,Soldeu,Andorra,AD,Canillo,02,Q24260,42.576944444,1.667222222,622
+51,3259911,Q24495,CITY,Sornàs,Sornàs,Andorra,AD,Ordino,05,Q24272,42.56666667,1.53333333,251
+52,3205272,Q24459,CITY,Vila,Vila,Andorra,AD,Encamp,03,Q24269,42.5319,1.5656,1143
+53,3333301,Q2544237,CITY,Xixerella,Xixerella,Andorra,AD,La Massana,04,Q24276,42.55,1.48333,0
+54,3363925,Q4540575,CITY,'Uraybi,'Uraybi,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.783055555,55.979444444,0
+55,3857091,Q4540406,CITY,Abadilah,Abadilah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.45353,56.18991,0
+56,659,Q1519,CITY,Abu Dhabi,Abu Dhabi,United Arab Emirates,AE,Emirate of Abu Dhabi,AZ,Q187712,24.451111111,54.396944444,1570000
+57,3222805,Q4682440,CITY,Adgat,Adgat,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.496666666,56.356388888,0
+58,3396372,Q4682448,CITY,Adh Dharbaniyah,Adh Dharbaniyah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.783333333,55.933333333,0
+59,3873326,Q4682473,CITY,Adhan,Adhan,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.4638326,55.9947649,0
+60,638,Q530171,CITY,Ajman,Ajman,United Arab Emirates,AE,Emirate of Ajman,AJ,Q159477,25.399444444,55.479722222,490035
+61,3253114,Q4700233,CITY,Akamiya,Akamiya,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.6,56.27,0
+62,644,Q234600,CITY,Al Ain,Al Ain,United Arab Emirates,AE,Emirate of Abu Dhabi,AZ,Q187712,24.2075,55.744722222,766936
+63,3870485,Q56376594,CITY,Al Aqqah,Al Aqqah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.4967,56.3564,0
+64,3314170,Q4703526,CITY,Al Badiyah,Al Badiyah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.431388888,56.348333333,0
+65,3875351,Q131009147,CITY,Al Baqil,Al Baqil,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.614198,56.1591715,0
+66,3909691,Q6416858,CITY,Al Bithnah,Al Bithnah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.1889,56.2328,0
+67,3872681,Q130527389,CITY,Al Dafain,Al Dafain,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,24.9648028,55.7795463,0
+68,3856480,Q129391002,CITY,Al Ejili,Al Ejili,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.04117,56.1512,0
+69,3427649,Q4703799,CITY,Al Fahlayn,Al Fahlayn,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.684166666,55.966666666,0
+70,3599334,Q3501086,CITY,Al Garhoud,Al Garhoud,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,25.24,55.350277777,19726
+71,3407655,Q4703863,CITY,Al Ghabah,Al Ghabah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.048888888,56.153333333,0
+72,3431003,Q4703865,CITY,Al Ghabam,Al Ghabam,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.032777777,56.152222222,0
+73,3276006,Q4703869,CITY,Al Ghashban,Al Ghashban,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.0425,56.118611111,0
+74,3872641,Q130526722,CITY,Al Ghizaimri,Al Ghizaimri,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.1493955,56.2406424,0
+75,3874789,Q130752484,CITY,Al Ghunah,Al Ghunah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.4145035,56.1871367,0
+76,3210694,Q4703966,CITY,Al Hamidiyah,Al Hamidiyah,United Arab Emirates,AE,Emirate of Ajman,AJ,Q159477,25.391666666,55.53,27000
+77,3291109,Q4703976,CITY,Al Hamraniyah,Al Hamraniyah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.611388888,55.900277777,0
+78,3355708,Q4703978,CITY,Al Hamriyah,Al Hamriyah,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.480833333,55.498333333,3297
+79,3874273,Q130644823,CITY,Al Hayilah,Al Hayilah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.7980557,56.1024195,0
+80,3438491,Q4704008,CITY,Al Hayl,Al Hayl,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.0925302,56.2438916,0
+81,3273693,Q4704014,CITY,Al Hayr,Al Hayr,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.978611111,56.085277777,0
+82,3411380,Q4704012,CITY,Al Heera,Al Heera,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.381388888,55.403055555,0
+83,3873093,Q130554593,CITY,Al Hiyar,Al Hiyar,United Arab Emirates,AE,Emirate of Abu Dhabi,AZ,Q187712,24.5888856,55.7441575,7610
+84,3337513,Q4704063,CITY,Al Hulaylah,Al Hulaylah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.885555555,56.052222222,0
+85,3381620,Q4704101,CITY,Al Jaddah,Al Jaddah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.996111111,56.084166666,0
+86,3304561,Q4704216,CITY,Al Khan,Al Khan,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.331944444,55.358888888,0
+87,3378688,Q4704220,CITY,Al Khari,Al Khari,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.096388888,56.026388888,0
+88,3275167,Q4704223,CITY,Al Khashfah,Al Khashfah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.028333333,56.139444444,0
+89,3871686,Q55603483,CITY,Al Madam,Al Madam,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,24.96138889,55.79027778,11120
+90,3301004,Q4704352,CITY,Al Mahamm,Al Mahamm,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.675,55.990277777,0
+91,3515514,Q4117373,ADM2,Al Mamzar,Al Mamzar,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,25.309469444,55.342811111,0
+92,3872340,Q130518454,CITY,Al Manzafah,Al Manzafah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.1054266,56.1960864,0
+93,3354245,Q4704399,CITY,Al Masafirah,Al Masafirah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.683333333,55.95,0
+94,3378473,Q4704405,CITY,Al Mataf,Al Mataf,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.833333333,55.983333333,0
+95,3234951,Q6933511,CITY,Al Muhtarqah,Al Muhtarqah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.541111111,56.130555555,0
+96,3901835,Q15260233,CITY,Al Munay,Al Munay,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.95135,56.14997,0
+97,3330168,Q4704533,CITY,Al Naslah,Al Naslah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.866096,56.2606302,0
+98,3331390,Q4704646,CITY,Al Qir,Al Qir,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.036388888,56.097777777,0
+99,3244005,Q4704658,CITY,Al Qurayyah,Al Qurayyah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.239444444,56.360555555,0
+100,3289452,Q4704670,CITY,Al Quwayz,Al Quwayz,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.774722222,55.969722222,0
+101,3196047,Q4704913,CITY,Al Usayli,Al Usayli,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.616666666,56.0,0
+102,3843593,Q126811512,CITY,Al Yafnah,Al Yafnah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.7345342,56.0991996,0
+103,3718287,Q4783046,CITY,Ar Rafa'ah,Ar Rafa'ah,United Arab Emirates,AE,Emirate of Umm Al Quwain,UQ,Q175021,25.615277777,55.702777777,0
+104,3874960,Q130778752,CITY,Ar Riwedah,Ar Riwedah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.5067122,56.0820438,0
+105,3362794,Q2485175,CITY,Ar-Rams,Ar-Rams,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.878888888,56.023611111,0
+106,3872685,Q130530980,CITY,As Saman,As Saman,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.2325576,55.8162727,0
+107,3351271,Q4803019,CITY,As Sur,As Sur,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.779166666,55.994722222,0
+108,3875035,Q130901662,CITY,Ashashah,Ashashah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.4598022,56.1671803,0
+109,3840109,Q125607594,CITY,Asimah,Asimah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.40339,56.14551,0
+110,3375942,Q4813182,CITY,Athabat,Athabat,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.161111111,56.096388888,0
+111,3392850,Q8053668,CITY,Azhabat,Azhabat,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.7300324,56.1336854,0
+112,3844792,Q127611052,CITY,Ba'iybah,Ba'iybah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.7156777,56.1260907,0
+113,3849162,Q126727648,CITY,Baighit,Baighit,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.9293803,56.1538078,5
+114,3832837,Q4857773,CITY,Baqal,Baqal,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.689444444,56.088333333,0
+115,3264797,Q4904192,CITY,Bidiyah,Bidiyah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.675,55.971944444,0
+116,3874969,Q130792936,CITY,Dab‘ah,Dab‘ah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.4948732,56.1762705,0
+117,3385163,Q3492833,CITY,Dadna,Dadna,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.52422,56.35868,0
+118,3826995,Q116867858,CITY,Dafalas,Dafalas,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.95167,56.14944,0
+119,3337523,Q3695961,CITY,Daftah,Daftah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.274166666,56.183333333,0
+120,3832862,Q5276392,CITY,Dahan,Dahan,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.7738,55.9254,0
+121,3842722,Q125956154,CITY,Danam,Danam,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.753526,56.1351963,0
+122,3848922,Q126911558,CITY,Danhah,Danhah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.579163,56.1850613,0
+123,3875142,Q5222043,CITY,Darah,Darah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.10083,56.05722,0
+124,3901543,Q133864300,CITY,Dardur,Dardur,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.6552673,56.1302144,0
+125,3402153,Q5243010,CITY,Dayah,Dayah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.883333333,56.05,0
+126,3338264,Q5243267,CITY,Daynah,Daynah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.043888888,56.011111111,0
+127,3844020,Q126895248,CITY,Deira Al-Tamba,Deira Al-Tamba,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.6288596,56.1293701,0
+128,3367663,Q5268669,CITY,Dhad al Arab,Dhad al Arab,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.616666666,55.85,0
+129,519,Q3492826,CITY,Dhaid,Dhaid,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.283333333,55.883333333,20165
+130,3872205,Q3696182,CITY,Dibba Al-Fujairah,Dibba Al-Fujairah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.616667,56.266667,41017
+131,571,Q6742405,CITY,Dibba Al-Hisn,Dibba Al-Hisn,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.608888888,56.275833333,26395
+132,3267816,Q5275243,CITY,Difan,Difan,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.785833333,55.943055555,0
+133,3368895,Q5280142,CITY,Diqdaqah,Diqdaqah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.6693136,55.9653814,0
+134,3836918,Q125255308,CITY,Dirat Sabah,Dirat Sabah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.75904,56.07612,0
+135,3895825,Q132631850,CITY,Dirat as-Sal,Dirat as-Sal,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.7491206,56.0929052,0
+136,3473851,Q5281911,CITY,Discovery Gardens,Discovery Gardens,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,25.03739444,55.14484444,0
+137,3519123,Q612,CITY,Dubai,Dubai,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,25.269722222,55.309444444,3944751
+138,3671889,Q1262899,ADM2,Dubai Internet City,Dubai Internet City,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,25.095,55.16,24000
+139,3872582,Q130519019,CITY,Esfai,Esfai,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.1101015,56.1414961,0
+140,3894083,Q133521767,CITY,Esfini,Esfini,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.17032,56.09591,0
+141,3243207,Q5427529,CITY,Fa'y,Fa'y,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.170555555,56.101388888,0
+142,3339643,Q5431628,CITY,Falaj Al-Mu'alla,Falaj Al-Mu'alla,United Arab Emirates,AE,Emirate of Umm Al Quwain,UQ,Q175021,25.353055555,55.853333333,0
+143,3442909,Q15217438,CITY,Fashrah,Fashrah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.88,56.20638889,0
+144,3209291,Q5439120,CITY,Fayyad,Fayyad,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.958055555,56.203333333,0
+145,3323978,Q5555170,CITY,Ghadf,Ghadf,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.283888888,56.173055555,0
+146,3430942,Q5555217,CITY,Ghaghah,Ghaghah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.766666666,56.066666666,0
+147,3254256,Q5555284,CITY,Ghalilah,Ghalilah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.9975,56.074444444,0
+148,3384534,Q5555307,CITY,Ghamarah,Ghamarah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.294166666,56.169722222,0
+149,3304532,Q5555978,CITY,Ghayl,Ghayl,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.4,56.066666666,0
+150,3909743,Q134486857,CITY,Ghob,Ghob,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.56392,56.20108,0
+151,3212791,Q5557517,CITY,Ghubb,Ghubb,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.808888888,55.990833333,0
+152,3656554,Q5557520,CITY,Ghubbat Khawrah,Ghubbat Khawrah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.042777777,56.135,0
+153,3201517,Q5592592,CITY,Gragrah,Gragrah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.464722222,55.984722222,0
+154,3271152,Q5636743,CITY,Habhab,Habhab,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.606666666,56.05,0
+155,3251552,Q5638302,CITY,Hafarah,Hafarah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.033333333,56.316666666,0
+156,3203542,Q15222648,CITY,Ham Ham,Ham Ham,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.68611111,55.96388889,0
+157,3313896,Q15222974,CITY,Haqil,Haqil,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.44611111,56.35166667,0
+158,3227279,Q5654283,CITY,Harat Al Awalah,Harat Al Awalah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.016388888,56.1325,0
+159,3840152,Q125623237,CITY,Harat Al Awalah,Harat Al Awalah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.00175,56.14622,0
+160,3883532,Q5663838,CITY,Harrah,Harrah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.99,56.217222222,0
+161,3224195,Q5678651,CITY,Hasat al Bidiyah,Hasat al Bidiyah,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.320555555,55.974444444,0
+162,3430534,Q15223291,CITY,Hatiyah,Hatiyah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.403774,56.1445377,0
+163,3857682,Q770233,CITY,Hatta,Hatta,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,24.80073,56.12726,15324
+164,3206411,Q5872928,CITY,Hiyawah,Hiyawah,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.36,56.348888888,0
+165,3270582,Q15224279,CITY,Hizayib az Zanah,Hizayib az Zanah,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.31583333,55.41194444,0
+166,3338947,Q15226502,CITY,Hudaybah,Hudaybah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.79638889,55.98277778,0
+167,3284434,Q5951338,CITY,Huwaylat,Huwaylat,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.877222222,56.173333333,0
+168,3874979,Q130780705,CITY,Jareef,Jareef,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.5148721,56.0724894,0
+169,3446998,Q1686086,CITY,Jebel Ali Village,Jebel Ali Village,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,25.034936111,55.117052777,0
+170,3387938,Q1142971,CITY,Jumeirah,Jumeirah,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,25.210069444,55.248961111,39080
+171,3872905,Q2204078,CITY,Kalba,Kalba,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.0513,56.35422,54876
+172,3439777,Q6398765,CITY,Khabakhib,Khabakhib,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.438055555,56.098055555,0
+173,3896294,Q133866185,CITY,Khanaan,Khanaan,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.6776752,56.1268744,0
+174,3212930,Q6400751,CITY,Kharran,Kharran,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.713055555,55.969166666,0
+175,3418005,Q6400949,CITY,Khatt,Khatt,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.624166666,56.016666666,0
+176,3872941,Q130547468,CITY,Khawr Kalbā,Khawr Kalbā,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.0371239,56.3623119,0
+177,3249032,Q6401069,CITY,Khawr Khuwayr,Khawr Khuwayr,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.967222222,56.054444444,0
+178,3347612,Q6401115,CITY,Khazam,Khazam,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.765,55.934166666,0
+179,124,Q764279,CITY,Khor Fakkan,Khor Fakkan,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.339166666,56.356111111,39151
+180,3224635,Q6506005,CITY,Lazimah,Lazimah,United Arab Emirates,AE,Emirate of Umm Al Quwain,UQ,Q175021,25.586111111,55.563333333,0
+181,3386786,Q6702774,CITY,Lulayyah,Lulayyah,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.390555555,56.354722222,0
+182,3311998,Q6730445,CITY,Maghribiyah,Maghribiyah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.2,56.05,0
+183,3823959,Q124811186,CITY,Mak Sikek,Mak Sikek,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.7605,56.11714,0
+184,3293652,Q1888663,CITY,Manama,Manama,United Arab Emirates,AE,Emirate of Ajman,AJ,Q159477,25.33,56.021944444,5823
+185,3281237,Q15245346,CITY,Manqashah,Manqashah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.035,56.14861111,0
+186,3872548,Q60743083,CITY,Margham,Margham,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,24.899518,55.6254536,930
+187,3207640,Q6760852,CITY,Marhamid,Marhamid,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.095,56.027222222,0
+188,3331034,Q3367129,CITY,Masafi,Masafi,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.313333333,56.162777777,0
+189,3227403,Q6782320,CITY,Masah,Masah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.301388888,56.163611111,0
+190,3211995,Q3133042,CITY,Masfut,Masfut,United Arab Emirates,AE,Emirate of Ajman,AJ,Q159477,24.81089,56.10657,8988
+191,3246810,Q6794447,CITY,Mawrid,Mawrid,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.4325,56.115,0
+192,3298090,Q6797009,CITY,Maydaq,Maydaq,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.338888888,56.103888888,0
+193,3290270,Q6864883,CITY,Minha,Minha,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.158333333,56.081111111,0
+194,3227181,Q6930670,CITY,Muaifi,Muaifi,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.361666666,56.344722222,0
+195,3871640,Q60785373,CITY,Mudayrah,Mudayrah,United Arab Emirates,AE,Emirate of Ajman,AJ,Q159477,24.830655,56.0359823,0
+196,3266991,Q6937491,CITY,Muraytah,Muraytah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.404166666,56.061944444,0
+197,300,Q6401643,CITY,Murbah,Murbah,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.280555555,56.364166666,2000
+198,3299036,Q6939057,CITY,Murrah,Murrah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.194722222,56.216944444,0
+199,3714175,Q117287828,CITY,Musaibat,Musaibat,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.91432,56.15549,2
+200,879,Q21735810,CITY,Muzayri‘,Muzayri‘,United Arab Emirates,AE,Emirate of Abu Dhabi,AZ,Q187712,23.143611111,53.788055555,10000
+201,3382673,Q252275,CITY,Nahwa,Nahwa,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.273333,56.285167,0
+202,3210637,Q4783073,CITY,Najd Al Miqsar,Najd Al Miqsar,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.346666666,56.316666666,0
+203,3232374,Q7265694,CITY,Qabas,Qabas,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.035555555,56.108333333,0
+204,3822215,Q124805722,CITY,Qada'ah,Qada'ah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.75044,56.14647,0
+205,3872588,Q6404586,CITY,Qadfa,Qadfa,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.2915459,56.363518,0
+206,3258577,Q7265804,CITY,Qaf'ah,Qaf'ah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.038055555,56.108611111,0
+207,3314884,Q7266748,CITY,Qarat ad Dulm,Qarat ad Dulm,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.860277777,56.025,0
+208,3640608,Q7272958,CITY,Qurm,Qurm,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.911388888,56.064166666,0
+209,3408036,Q7272983,CITY,Qusaydat,Qusaydat,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.763611111,55.975555555,0
+210,3872722,Q130526495,CITY,Rafadah,Rafadah,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,24.9107767,55.7391018,0
+211,3428684,Q7282405,CITY,Rafaq,Rafaq,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.875,56.245555555,0
+212,3365210,Q7289704,CITY,Ramlah,Ramlah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.361666666,56.043611111,0
+213,3705220,Q117304338,CITY,Ras Ash,Ras Ash,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.96779,56.16786,0
+214,3891922,Q132631957,CITY,Ribiyyah,Ribiyyah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.73435,56.02536,0
+215,3418785,Q7339032,CITY,Riyamah,Riyamah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.546111111,56.058888888,0
+216,3907632,Q134545854,CITY,Rol Dadna,Rol Dadna,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.55481,56.34546,0
+217,3256658,Q7378588,CITY,Rughaylat,Rughaylat,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.116666666,56.35,0
+218,413,Q1023786,CITY,Ruwais,Ruwais,United Arab Emirates,AE,Emirate of Abu Dhabi,AZ,Q187712,24.11685491,52.73301956,25000
+219,3406907,Q7404511,CITY,Salihiyah,Salihiyah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.720555555,55.988055555,0
+220,3831755,Q124822739,CITY,Samarat,Samarat,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.68907,56.13699,0
+221,3208077,Q7421197,CITY,Saqamqam,Saqamqam,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.17467,56.33039,0
+222,3904405,Q131823010,CITY,Sawabi,Sawabi,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.5971617,56.1445669,0
+223,3363798,Q7429232,CITY,Sayh as Saqlah,Sayh as Saqlah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.883333333,56.166666666,0
+224,3867373,Q3696195,CITY,Sha'am,Sha'am,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.024444444,56.083888888,1550
+225,3875598,Q131136787,CITY,Sha'biyyat Al Khawālid,Sha'biyyat Al Khawālid,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,24.9765695,55.8378368,0
+226,3397719,Q6863289,CITY,Sha'biyyat Al Qilē'ī,Sha'biyyat Al Qilē'ī,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,24.94256,56.21074,0
+227,3258626,Q7272910,CITY,Sha'biyyat Al Qor,Sha'biyyat Al Qor,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.911388888,56.098611111,0
+228,3903336,Q134530828,CITY,Sha'biyyat Al Wa'ab,Sha'biyyat Al Wa'ab,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.9286039,56.1587765,0
+229,3874070,Q130621334,CITY,Sha'biyyat Milāḩ,Sha'biyyat Milāḩ,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.915553,56.1201516,0
+230,3875609,Q131128320,CITY,Sha'biyyat Sikhе̄bar,Sha'biyyat Sikhе̄bar,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,24.926814,56.1692732,0
+231,3223837,Q7460007,CITY,Shabakah,Shabakah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.033333333,56.0,0
+232,3719610,Q96414180,CITY,Shah,Shah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.89861,56.12833,0
+233,3344085,Q7461462,CITY,Shahawat,Shahawat,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.966666666,56.083333333,0
+234,3714609,Q117352121,CITY,Shairi,Shairi,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.70062,56.12278,6
+235,3873449,Q7489755,CITY,Shariyah,Shariyah,United Arab Emirates,AE,Emirate of Ajman,AJ,Q159477,24.81512,56.0986,0
+236,900,Q289693,CITY,Sharjah,Sharjah,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.3375,55.411944444,1247749
+237,3875068,Q130901434,CITY,Sharmatah,Sharmatah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.4610647,56.1765137,0
+238,3342963,Q7490509,CITY,Sharyat,Sharyat,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.043055555,56.108055555,0
+239,3391965,Q7491258,CITY,Shawkah,Shawkah,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.1,56.033333333,0
+240,3333496,Q7959245,CITY,Shi,Shi,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.35,56.316666666,0
+241,3198024,Q7496816,CITY,Shimal,Shimal,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.818055555,56.031666666,0
+242,3226301,Q12219376,CITY,Shis,Shis,United Arab Emirates,AE,Emirate of Sharjah,SH,Q188810,25.290555555,56.245555555,0
+243,3822620,Q124805631,CITY,Silay Al Khatami,Silay Al Khatami,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.74125,56.12992,0
+244,3895414,Q132631795,CITY,Slai Al-Ghalib,Slai Al-Ghalib,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.7441,56.06133,0
+245,3871617,Q130416626,CITY,Subaygha,Subaygha,United Arab Emirates,AE,Emirate of Ajman,AJ,Q159477,24.876963,55.9889741,0
+246,3370568,Q7634460,CITY,Sufayri,Sufayri,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,24.813888888,56.142222222,0
+247,3439128,Q7635234,CITY,Suhaylah,Suhaylah,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,24.8081236,56.1825798,403
+248,3396045,Q7686023,CITY,Tarif Kalba,Tarif Kalba,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.068611111,56.334444444,51000
+249,3849088,Q127425805,CITY,Tawiyean,Tawiyean,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.553532,56.0768012,0
+250,3848828,Q104870093,CITY,Tayyibah,Tayyibah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.41228,56.17075,0
+251,3872849,Q130535254,CITY,Thoban,Thoban,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.3034265,56.0302106,0
+252,3212226,Q7958918,CITY,Wad Wid,Wad Wid,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.633333333,56.018611111,0
+253,3902563,Q134397793,CITY,Wam,Wam,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.60031,56.22838,0
+254,3313250,Q4117484,CITY,Warisan,Warisan,United Arab Emirates,AE,Emirate of Dubai,DU,Q613,25.162686111,55.422591666,108759
+255,3395640,Q7975860,CITY,Wayb Hawf,Wayb Hawf,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,26.028888888,56.121111111,0
+256,3400916,Q8053665,CITY,Yinainir,Yinainir,United Arab Emirates,AE,Emirate of Ras Al Khaimah,RK,Q170024,25.908055555,56.17,0
+257,3841146,Q5208819,CITY,Zahir al Ya'ad,Zahir al Ya'ad,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.533333333,56.154722222,0
+258,3867218,Q8074914,CITY,Zubarah,Zubarah,United Arab Emirates,AE,Emirate of Fujairah,FU,Q4091,25.4025,56.361388888,0
+259,3324790,Q4662874,CITY,Ab Bala,Ab Bala,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.716666666,67.733333333,0
+260,3386644,Q3694483,ADM2,Ab Band District,Ab Band District,Afghanistan,AF,Ghazni Province,GHA,Q180415,32.983,67.967,0
+261,3195090,Q2574638,CITY,Ab Bazan,Ab Bazan,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.933333333,69.95,0
+262,2988260,Q3338123,CITY,Ab Gaj,Ab Gaj,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.983055555,72.7,487
+263,3339608,Q2572213,ADM2,Ab Kamari,Ab Kamari,Afghanistan,AF,Badghis Province,BDG,Q172052,34.925,62.901666666,0
+264,3358372,Q4663017,CITY,Ab Khvorak-e Bala,Ab Khvorak-e Bala,Afghanistan,AF,Samangan Province,SAM,Q183015,35.5,67.73333333,0
+265,3268623,Q4663018,CITY,Ab Khvorak-e Pa'in,Ab Khvorak-e Pa'in,Afghanistan,AF,Samangan Province,SAM,Q183015,35.50444444,67.75972222,0
+266,3371810,Q4663019,CITY,Ab Kolok,Ab Kolok,Afghanistan,AF,Jowzjan Province,JOW,Q183036,37.05972222,66.04333333,0
+267,3258778,Q4663036,CITY,Ab Mazar,Ab Mazar,Afghanistan,AF,Herat Province,HER,Q182844,34.95777778,61.53861111,0
+268,3249300,Q4662846,CITY,Ab-e Barik-e Qowdi,Ab-e Barik-e Qowdi,Afghanistan,AF,Badghis Province,BDG,Q172052,34.905555555,62.719722222,0
+269,3321167,Q4667522,CITY,Abi Jan,Abi Jan,Afghanistan,AF,Helmand Province,HEL,Q173821,31.53194444,64.35694444,0
+270,3228129,Q1650529,ADM2,Achin,Achin,Afghanistan,AF,Nangarhar Province,NAN,Q178471,34.0894,70.683,0
+271,3443639,Q4682908,CITY,Adineh Masjed,Adineh Masjed,Afghanistan,AF,Balkh Province,BAL,Q121104,36.894444444,66.702777777,0
+272,3406810,Q4684698,CITY,Adraskan,Adraskan,Afghanistan,AF,Herat Province,HER,Q182844,33.6425,62.2672,0
+273,3301438,Q2714271,ADM2,Adraskan District,Adraskan District,Afghanistan,AF,Herat Province,HER,Q182844,33.705277777,61.995555555,0
+274,3386381,Q4694949,CITY,Ahangaran,Ahangaran,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.6139,69.4917,0
+275,3198316,Q3918406,ADM2,Ahmadabad District,Ahmadabad District,Afghanistan,AF,Paktia Province,PIA,Q182493,33.773888888,69.339722222,0
+276,3240835,Q4696380,CITY,Ahtaj,Ahtaj,Afghanistan,AF,Parwan Province,PAR,Q188157,35.03333333,69.25,0
+277,3223788,Q2674014,ADM2,Ajristan District,Ajristan District,Afghanistan,AF,Ghazni Province,GHA,Q180415,33.466962,67.238846,0
+278,3319022,Q4700789,CITY,Akhshay,Akhshay,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.957777777,67.608333333,0
+279,3382471,Q2830672,ADM2,Alasay,Alasay,Afghanistan,AF,Kapisa Province,KAP,Q173816,34.925555555,69.809166666,0
+280,3366209,Q4708417,CITY,Alasay,Alasay,Afghanistan,AF,Kapisa Province,KAP,Q173816,34.8958,69.7208,0
+281,3347217,Q2123756,ADM2,Ali Abad,Ali Abad,Afghanistan,AF,Kunduz Province,KDZ,Q186418,36.53,68.877777777,0
+282,3348637,Q1229725,ADM2,Alingar District,Alingar District,Afghanistan,AF,Laghman Province,LAG,Q185442,34.8347,70.3603,0
+283,3672921,Q4726960,CITY,Aliser,Aliser,Afghanistan,AF,Khost Province,KHO,Q185752,33.4658,70.0911,0
+284,3422536,Q4726991,ADM2,Alishing,Alishing,Afghanistan,AF,Laghman Province,LAG,Q185442,34.7044,70.1539,0
+285,3313547,Q4727726,CITY,Alkozai,Alkozai,Afghanistan,AF,Kandahar Province,KAN,Q173808,31.51666667,65.5,0
+286,3311911,Q3694490,ADM2,Almar,Almar,Afghanistan,AF,Faryab Province,FYB,Q173830,35.8464,64.5333,0
+287,3288697,Q4733866,CITY,Almoghul,Almoghul,Afghanistan,AF,Balkh Province,BAL,Q121104,36.033888888,66.637777777,0
+288,3318692,Q4748613,CITY,Amrakh,Amrakh,Afghanistan,AF,Balkh Province,BAL,Q121104,35.883333333,66.7,0
+289,3344645,Q4750544,ADM2,Anaba,Anaba,Afghanistan,AF,Panjshir Province,PAN,Q181235,35.223888888,69.405277777,0
+290,3297891,Q1032484,ADM2,Anar Dara District,Anar Dara District,Afghanistan,AF,Farah Province,FRA,Q180330,32.7688,61.677246,0
+291,3294936,Q3694476,ADM2,Andar District,Andar District,Afghanistan,AF,Ghazni Province,GHA,Q180415,33.318121,68.450131,0
+292,3218278,Q2376379,ADM2,Andarab District,Andarab District,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.628333333,69.177222222,120642
+293,439,Q1054127,CITY,Andkhoy,Andkhoy,Afghanistan,AF,Faryab Province,FYB,Q173830,36.95,65.116666666,39730
+294,3457115,Q13217328,ADM2,Andkhoy,Andkhoy,Afghanistan,AF,Faryab Province,FYB,Q173830,36.95,65.11666667,0
+295,3274512,Q4754644,CITY,Andowj,Andowj,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.016666666,71.433333333,0
+296,3482796,Q3516788,CITY,Angoor Ada,Angoor Ada,Afghanistan,AF,Baghlan Province,BGL,Q170309,32.515555555,69.2825,0
+297,3262020,Q4765892,CITY,Anjuman,Anjuman,Afghanistan,AF,Badakhshan Province,BDS,Q165376,35.883333333,70.416666666,0
+298,3267217,Q4777965,CITY,Anvah-ye Kalan,Anvah-ye Kalan,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.983333333,67.933333333,0
+299,3028777,Q21764905,CITY,Anār Darah,Anār Darah,Afghanistan,AF,Farah Province,FRA,Q180330,32.758611111,61.653888888,10023
+300,3394931,Q4782385,CITY,Aq Gonbaz,Aq Gonbaz,Afghanistan,AF,Samangan Province,SAM,Q183015,36.51,68.09611111,0
+301,3343381,Q3288584,CITY,Aq Kupruk,Aq Kupruk,Afghanistan,AF,Balkh Province,BAL,Q121104,36.083333333,66.833333333,0
+302,3442484,Q4782414,CITY,Aq Robat,Aq Robat,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.933333333,67.65,0
+303,291,Q2246526,CITY,Aqcha,Aqcha,Afghanistan,AF,Jowzjan Province,JOW,Q183036,36.921352,66.192627,29380
+304,3224068,Q3694472,ADM2,Aqcha,Aqcha,Afghanistan,AF,Jowzjan Province,JOW,Q183036,36.904166666,66.208055555,0
+305,3357481,Q4783832,CITY,Arakht,Arakht,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.366666666,71.416666666,0
+306,3443396,Q4784117,CITY,Aranji,Aranji,Afghanistan,AF,Balkh Province,BAL,Q121104,37.2975,66.517222222,0
+307,3220136,Q4784241,CITY,Araq-e `Olya,Araq-e `Olya,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.816666666,68.05,0
+308,3351263,Q2217943,ADM2,Archi,Archi,Afghanistan,AF,Kunduz Province,KDZ,Q186418,36.963611111,69.157222222,0
+309,3313181,Q4789166,CITY,Arg-e Zari,Arg-e Zari,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.666666666,66.883333333,0
+310,3326544,Q4789185,ADM2,Argahandab District,Argahandab District,Afghanistan,AF,Zabul Province,ZAB,Q139126,32.12972222,66.92805556,0
+311,3514312,Q1920624,CITY,Arghandab District,Arghandab District,Afghanistan,AF,Kandahar Province,KAN,Q173808,31.654722222,65.649444444,54000
+312,3396952,Q4789540,CITY,Arghandakan,Arghandakan,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.840555555,70.303055555,0
+313,3408811,Q2669827,ADM2,Arghanj Khwa,Arghanj Khwa,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.95,70.116666666,18201
+314,3472183,Q4789542,CITY,Arghistan,Arghistan,Afghanistan,AF,Kandahar Province,KAN,Q173808,31.5667,66.5,0
+315,3351578,Q2670898,ADM2,Argo,Argo,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.11388889,70.525,0
+316,3420429,Q4790585,CITY,Arigh Batur,Arigh Batur,Afghanistan,AF,Balkh Province,BAL,Q121104,37.348611111,66.961666666,0
+317,3203634,Q4801171,CITY,Artin Jelow,Artin Jelow,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.077777777,70.166944444,0
+318,3225150,Q4802029,CITY,Aruj,Aruj,Afghanistan,AF,Sar-e Pol Province,SAR,Q182487,35.87611111,65.89361111,0
+319,3210163,Q4802071,CITY,Arun,Arun,Afghanistan,AF,Badakhshan Province,BDS,Q165376,38.31,70.845833333,0
+320,92,Q685808,CITY,Asadabad,Asadabad,Afghanistan,AF,Kunar Province,KNR,Q188147,34.874166666,71.152777777,16700
+321,3197716,Q2663257,ADM2,Asadabad,Asadabad,Afghanistan,AF,Kunar Province,KNR,Q188147,34.86832,71.13003,0
+322,3687035,Q4804311,CITY,Asgharat,Asgharat,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.383333333,66.65,0
+323,3363350,Q4804595,CITY,Ashava,Ashava,Afghanistan,AF,Parwan Province,PAR,Q188157,35.11805556,69.10777778,0
+324,3439136,Q4805701,CITY,Ashnam,Ashnam,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.607777777,70.780833333,0
+325,3312483,Q4806511,CITY,Asiabad,Asiabad,Afghanistan,AF,Samangan Province,SAM,Q183015,36.39444444,67.88972222,0
+326,632,Q21765090,CITY,Asmar,Asmar,Afghanistan,AF,Kunar Province,KNR,Q188147,35.0339,71.3583,15708
+327,3317307,Q2214697,ADM2,Atghar District,Atghar District,Afghanistan,AF,Zabul Province,ZAB,Q139126,31.725,67.385,0
+328,3365556,Q4827364,CITY,Av Darreh,Av Darreh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.604166666,67.547222222,0
+329,3200799,Q4827368,CITY,Av Par,Av Par,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.966666666,67.85,0
+330,782,Q1020649,CITY,Aybak,Aybak,Afghanistan,AF,Samangan Province,SAM,Q183015,36.25341,68.03936,35560
+331,3223274,Q4831026,CITY,Aybak,Aybak,Afghanistan,AF,Helmand Province,HEL,Q173821,32.72944444,64.70111111,0
+332,3386930,Q3694404,ADM2,Aybak,Aybak,Afghanistan,AF,Samangan Province,SAM,Q183015,36.20667,67.98661,0
+333,3417173,Q2874994,CITY,Aynak,Aynak,Afghanistan,AF,Logar Province,LOG,Q6667298,34.266111111,69.305,0
+334,3393627,Q2215339,ADM2,Azra,Azra,Afghanistan,AF,Logar Province,LOG,Q6667298,34.109166666,69.624444444,0
+335,3243677,Q4837058,CITY,Ba Khersak,Ba Khersak,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.861111111,71.120555555,0
+336,3200758,Q4837366,CITY,Baba Qanbar,Baba Qanbar,Afghanistan,AF,Samangan Province,SAM,Q183015,36.05,68.18333333,0
+337,3340953,Q4838088,CITY,Babula'i,Babula'i,Afghanistan,AF,Badghis Province,BDG,Q172052,35.318611111,62.952777777,0
+338,3369995,Q4841401,CITY,Bagag,Bagag,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.633333333,66.833333333,0
+339,3340255,Q4841756,CITY,Baghala,Baghala,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.75,67.75,0
+340,3354053,Q4841799,CITY,Baghdad,Baghdad,Afghanistan,AF,Maidan Wardak Province,WAR,Q183056,34.21777778,67.8875,0
+341,134,Q732879,CITY,Baghlan,Baghlan,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.132777777,68.7,83490
+342,3261231,Q3694248,ADM2,Baghlani Jadid,Baghlani Jadid,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.326944444,68.624166666,198382
+343,3910369,Q4841917,CITY,Baghran,Baghran,Afghanistan,AF,Helmand Province,HEL,Q173821,33.0669,65.0917,0
+344,3299283,Q814388,CITY,Bagram,Bagram,Afghanistan,AF,Parwan Province,PAR,Q188157,34.96694,69.265,0
+345,3225420,Q799961,ADM2,Bagram District,Bagram District,Afghanistan,AF,Parwan Province,PAR,Q188157,34.96666667,69.29277778,0
+346,3896457,Q4842103,CITY,Bagrami,Bagrami,Afghanistan,AF,Kabul Province,KAB,Q188933,34.4911,69.2756,0
+347,3399657,Q4842233,CITY,Bahador Khani,Bahador Khani,Afghanistan,AF,Badghis Province,BDG,Q172052,34.785555555,62.629444444,0
+348,3352532,Q4842237,CITY,Bahadorkhan,Bahadorkhan,Afghanistan,AF,Badghis Province,BDG,Q172052,34.75,63.65,0
+349,3239420,Q4842442,CITY,Baharak,Baharak,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.002777777,70.9075,0
+350,3386712,Q3918397,ADM2,Baharak District,Baharak District,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.9956,70.8932,80000
+351,3201806,Q3918376,ADM2,Baharak District,Baharak District,Afghanistan,AF,Takhar Province,TAK,Q186395,36.832777777,69.395277777,0
+352,3306468,Q4842453,CITY,Baharestan,Baharestan,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.983333333,70.883333333,0
+353,3481364,Q28223867,CITY,Bahram Chah,Bahram Chah,Afghanistan,AF,Helmand Province,HEL,Q173821,29.42086,64.01489,3700
+354,3272945,Q2929367,ADM2,Bak District,Bak District,Afghanistan,AF,Khost Province,KHO,Q185752,33.53,70.076666666,0
+355,3390651,Q4849367,CITY,Bakharow,Bakharow,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.976944444,70.628611111,0
+356,3339747,Q1812576,ADM2,Bakwa District,Bakwa District,Afghanistan,AF,Farah Province,FRA,Q180330,32.25138889,62.9575,0
+357,3337262,Q4849658,CITY,Bala Bowkan,Bala Bowkan,Afghanistan,AF,Badghis Province,BDG,Q172052,35.578888888,63.637777777,0
+358,3414199,Q2380868,ADM2,Bala Buluk District,Bala Buluk District,Afghanistan,AF,Farah Province,FRA,Q180330,32.69888889,62.73,0
+359,3271362,Q4849661,CITY,Bala Deh,Bala Deh,Afghanistan,AF,Paktia Province,PIA,Q182493,33.99888889,69.21194444,0
+360,3383847,Q4849663,CITY,Bala Duri-ye Avval,Bala Duri-ye Avval,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.058888888,68.672222222,0
+361,3308274,Q4849664,CITY,Bala Duri-ye Dovvom,Bala Duri-ye Dovvom,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.044444444,68.672777777,0
+362,3347324,Q4849685,CITY,Bala Kuh,Bala Kuh,Afghanistan,AF,Balkh Province,BAL,Q121104,36.575277777,66.820277777,0
+363,3359249,Q4849772,CITY,Baladay,Baladay,Afghanistan,AF,Kandahar Province,KAN,Q173808,31.5475,65.71888889,0
+364,3200928,Q4849824,CITY,Balahesar,Balahesar,Afghanistan,AF,Samangan Province,SAM,Q183015,35.98388889,67.46916667,0
+365,140,Q182159,CITY,Balkh,Balkh,Afghanistan,AF,Balkh Province,BAL,Q121104,36.758055555,66.898888888,77000
+366,3310387,Q4851127,CITY,Balkhab,Balkhab,Afghanistan,AF,Sar-e Pol Province,SAR,Q182487,35.5,66.5,0
+367,3422672,Q2215327,ADM2,Balkhab District,Balkhab District,Afghanistan,AF,Sar-e Pol Province,SAR,Q182487,35.458055555,66.602222222,0
+368,3409510,Q4853056,CITY,Baluchi,Baluchi,Afghanistan,AF,Balkh Province,BAL,Q121104,36.353333333,66.917222222,0
+369,3217769,Q4853237,CITY,Balūchī,Balūchī,Afghanistan,AF,Herat Province,HER,Q182844,33.78666667,63.255,0
+370,3440271,Q4853239,CITY,Balūchī,Balūchī,Afghanistan,AF,Uruzgan Province,URU,Q183028,32.75472222,65.91138889,0
+371,88,Q214495,CITY,Bamyan,Bamyan,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.816666666,67.816666666,100000
+372,3375638,Q2572224,ADM2,Bamyan District,Bamyan District,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.81666667,67.81666667,0
+373,3387531,Q4853918,CITY,Banaq,Banaq,Afghanistan,AF,Bamyan Province,BAM,Q171382,35.321111111,67.5925,0
+374,3211002,Q4854193,CITY,Band-e Sareq,Band-e Sareq,Afghanistan,AF,Samangan Province,SAM,Q183015,36.11194444,67.33444444,0
+375,3339890,Q4854197,CITY,Band-e Sheram,Band-e Sheram,Afghanistan,AF,Balkh Province,BAL,Q121104,36.133333333,67.083333333,0
+376,3384386,Q4854194,CITY,Band-e Shuy,Band-e Shuy,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.383333333,67.433333333,0
+377,3338157,Q3309222,ADM2,Bangi District,Bangi District,Afghanistan,AF,Takhar Province,TAK,Q186395,36.613333333,69.338055555,0
+378,3206185,Q11908077,CITY,Banow,Banow,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.634444444,69.259444444,0
+379,3251427,Q798468,ADM2,Bar Kunar District,Bar Kunar District,Afghanistan,AF,Kunar Province,KNR,Q188147,35.0339,71.3583,0
+380,110,Q807234,CITY,Baraki Barak,Baraki Barak,Afghanistan,AF,Logar Province,LOG,Q6667298,33.969166666,68.944722222,22305
+381,3239757,Q3918458,ADM2,Baraki Barak,Baraki Barak,Afghanistan,AF,Logar Province,LOG,Q6667298,33.93,68.885277777,0
+382,3232691,Q4858275,CITY,Baraki Rajan,Baraki Rajan,Afghanistan,AF,Logar Province,LOG,Q6667298,33.933333333,68.916666666,0
+383,3297207,Q4858438,CITY,Baraqi,Baraqi,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.033333333,68.966666666,0
+384,3655856,Q4860487,CITY,Barfak,Barfak,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.349166666,68.161111111,0
+385,3252222,Q3696136,ADM2,Barg-i Matal,Barg-i Matal,Afghanistan,AF,Nuristan Province,NUR,Q167485,35.775,71.252777777,0
+386,3384396,Q4860714,CITY,Barigah,Barigah,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.133333333,67.583333333,0
+387,3311392,Q4860721,CITY,Barik-e Sofla,Barik-e Sofla,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.366666666,66.65,0
+388,3330348,Q4860722,CITY,Barik-e `Olya,Barik-e `Olya,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.383333333,66.65,0
+389,3425855,Q4860726,CITY,Barikak,Barikak,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.1,67.8,0
+390,3319404,Q1650491,ADM2,Barmal District,Barmal District,Afghanistan,AF,Paktika Province,PKA,Q185575,32.714444444,69.275,0
+391,3243636,Q4865997,CITY,Baryavan,Baryavan,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.533333333,70.455833333,0
+392,3409375,Q4866716,CITY,Basenj,Basenj,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.819444444,71.093888888,0
+393,3347915,Q4866773,CITY,Bashanabad,Bashanabad,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.785,71.091666666,0
+394,3440208,Q4868380,CITY,Bastukbacheh,Bastukbacheh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.15,67.05,0
+395,3437840,Q1647526,ADM2,Bati Kot,Bati Kot,Afghanistan,AF,Nangarhar Province,NAN,Q178471,34.289444444,70.756666666,0
+396,3220670,Q4869444,CITY,Batob,Batob,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.23,69.161111111,0
+397,3305573,Q4873573,CITY,Bauragai,Bauragai,Afghanistan,AF,Balkh Province,BAL,Q121104,36.403888888,66.896388888,0
+398,3329860,Q4873794,CITY,Bawragai,Bawragai,Afghanistan,AF,Balkh Province,BAL,Q121104,36.081944444,66.898333333,0
+399,3391533,Q4873796,CITY,Bawrchi,Bawrchi,Afghanistan,AF,Balkh Province,BAL,Q121104,36.365833333,66.538611111,0
+400,3287635,Q4873800,CITY,Bawshi,Bawshi,Afghanistan,AF,Balkh Province,BAL,Q121104,35.73,67.098055555,0
+401,3235519,Q4874038,CITY,Bay Malasi,Bay Malasi,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.131666666,70.512777777,0
+402,3435995,Q4874088,CITY,Bay Saqal,Bay Saqal,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.237777777,68.545277777,0
+403,3302710,Q4874131,CITY,Bay Temor,Bay Temor,Afghanistan,AF,Balkh Province,BAL,Q121104,36.669166666,66.7575,0
+404,3404530,Q4874288,CITY,Bayanan,Bayanan,Afghanistan,AF,Balkh Province,BAL,Q121104,35.8975,67.139166666,0
+405,3212855,Q4874372,CITY,Baybacheh,Baybacheh,Afghanistan,AF,Badghis Province,BDG,Q172052,34.953333333,64.051111111,0
+406,3413580,Q4874389,CITY,Baybul,Baybul,Afghanistan,AF,Balkh Province,BAL,Q121104,35.720555555,66.859444444,0
+407,3257206,Q4874759,CITY,Bayram,Bayram,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.25,69.0,0
+408,3209123,Q4874780,CITY,Bayri,Bayri,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.615277777,67.052777777,0
+409,3250268,Q4875115,CITY,Bazar-e Taleh,Bazar-e Taleh,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.388611111,68.221388888,0
+410,3321586,Q4875129,ADM2,Bazarak,Bazarak,Afghanistan,AF,Panjshir Province,PAN,Q181235,34.55,70.55,0
+411,3472208,Q1982148,CITY,Bazarak,Bazarak,Afghanistan,AF,Panjshir Province,PAN,Q181235,35.313055555,69.515277777,24723
+412,3213664,Q4875135,CITY,Bazargan,Bazargan,Afghanistan,AF,Herat Province,HER,Q182844,34.35416667,62.005,0
+413,3318020,Q4875154,CITY,Bazartu,Bazartu,Afghanistan,AF,Badghis Province,BDG,Q172052,35.447777777,63.2925,0
+414,3244466,Q4875179,CITY,Bazgir,Bazgir,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.64,71.462777777,0
+415,3306994,Q4881602,CITY,Bekhe Qada,Bekhe Qada,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.15,67.466666666,0
+416,3269518,Q4890991,CITY,Berana,Berana,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.433333333,67.266666666,0
+417,3244259,Q4896226,CITY,Besh Qol,Besh Qol,Afghanistan,AF,Samangan Province,SAM,Q183015,35.91666667,68.245,0
+418,3237270,Q4899863,CITY,Beygshahr,Beygshahr,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.4775,68.640833333,0
+419,3319233,Q4902393,CITY,Bia Mordeh,Bia Mordeh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.95,68.2,0
+420,3344239,Q4903956,CITY,Bid Qowl Bala,Bid Qowl Bala,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.55,67.5,0
+421,3340207,Q4903924,CITY,Bid-e Kalan,Bid-e Kalan,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.345833333,70.310277777,0
+422,3288427,Q4904221,CITY,Bidqowl,Bidqowl,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.1,66.816666666,0
+423,3726226,Q2217968,ADM2,Bihsud District,Bihsud District,Afghanistan,AF,Nangarhar Province,NAN,Q178471,34.442777777,70.508888888,0
+424,3199575,Q4907641,ADM2,Bilchiragh,Bilchiragh,Afghanistan,AF,Faryab Province,FYB,Q173830,35.8386,65.2308,0
+425,3313793,Q4915598,CITY,Biraneh,Biraneh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.766666666,68.1,0
+426,3367411,Q4916337,CITY,Birimak,Birimak,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.2,67.516666666,0
+427,3440730,Q4938887,CITY,Bolagh Tughaneh,Bolagh Tughaneh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.116666666,67.65,0
+428,3297542,Q4938888,CITY,Bolagh-e Sabz,Bolagh-e Sabz,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.733333333,67.683333333,0
+429,3266710,Q4938916,CITY,Boland Dival,Boland Dival,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.05,67.5,0
+430,3209909,Q15202865,CITY,Bolowleh,Bolowleh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.88333333,68.08333333,0
+431,3362918,Q4945111,CITY,Boria Bal,Boria Bal,Afghanistan,AF,Balkh Province,BAL,Q121104,37.17,67.235555555,0
+432,3331533,Q4951464,CITY,Bowz Arigh,Bowz Arigh,Afghanistan,AF,Balkh Province,BAL,Q121104,37.318333333,66.671666666,0
+433,3437238,Q4952773,CITY,Boz Darreh,Boz Darreh,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.968333333,69.09,0
+434,3336887,Q4952799,CITY,Bozba'i,Bozba'i,Afghanistan,AF,Badghis Province,BDG,Q172052,35.451388888,63.383333333,0
+435,3261658,Q4997215,CITY,Bum-e Shebar,Bum-e Shebar,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.816666666,67.516666666,0
+436,3250207,Q3694291,ADM2,Burka,Burka,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.240833333,69.162777777,0
+437,3213401,Q5055216,CITY,Cawgay,Cawgay,Afghanistan,AF,Zabul Province,ZAB,Q139126,32.23694444,66.64305556,0
+438,923,Q958621,CITY,Chaghcharan,Chaghcharan,Afghanistan,AF,Ghor Province,GHO,Q186392,34.5225,65.251666666,15000
+439,3230029,Q2725478,ADM2,Chaghcharan District,Chaghcharan District,Afghanistan,AF,Ghor Province,GHO,Q186392,34.5225,65.2517,0
+440,3442301,Q2468989,ADM2,Chah Ab District,Chah Ab District,Afghanistan,AF,Takhar Province,TAK,Q186395,37.45004,69.8799,0
+441,3224747,Q1647479,ADM2,Chahar Burjak District,Chahar Burjak District,Afghanistan,AF,Nimruz Province,NIM,Q183021,30.269588,62.151718,0
+442,3298635,Q5067571,CITY,Chahar Dar,Chahar Dar,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.396111111,68.607222222,0
+443,3434506,Q5067589,CITY,Chahar Kent,Chahar Kent,Afghanistan,AF,Balkh Province,BAL,Q121104,36.5,67.333333333,0
+444,3297925,Q5067593,CITY,Chahar Mahalleh,Chahar Mahalleh,Afghanistan,AF,Balkh Province,BAL,Q121104,36.495277777,67.193333333,0
+445,3259654,Q5067672,ADM2,Chaharikar District,Chaharikar District,Afghanistan,AF,Parwan Province,PAR,Q188157,34.9477,69.3116,0
+446,3413198,Q5067690,CITY,Chahi,Chahi,Afghanistan,AF,Balkh Province,BAL,Q121104,36.998611111,66.686944444,0
+447,661,Q21763949,CITY,Chahār Burj,Chahār Burj,Afghanistan,AF,Herat Province,HER,Q182844,34.244722222,62.191666666,11935
+448,3365882,Q5068322,CITY,Chakhansur,Chakhansur,Afghanistan,AF,Nimruz Province,NIM,Q183021,31.17517,62.06449,0
+449,3317845,Q388289,ADM2,Chakhansur District,Chakhansur District,Afghanistan,AF,Nimruz Province,NIM,Q183021,31.16666667,62.06666667,0
+450,3249002,Q1059332,ADM2,Chaki Wardak,Chaki Wardak,Afghanistan,AF,Maidan Wardak Province,WAR,Q183056,34.108555555,68.579775,0
+451,3292111,Q3309261,ADM2,Chal District,Chal District,Afghanistan,AF,Takhar Province,TAK,Q186395,36.4975,69.559166666,0
+452,3340872,Q5068576,CITY,Chalas,Chalas,Afghanistan,AF,Kunar Province,KNR,Q188147,34.79138889,70.81694444,0
+453,3214877,Q5069259,CITY,Cham Qal`eh,Cham Qal`eh,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.138611111,68.745833333,0
+454,3369921,Q798508,ADM2,Chapa Dara,Chapa Dara,Afghanistan,AF,Kunar Province,KNR,Q188147,34.982777777,70.599444444,0
+455,3299563,Q3694378,ADM2,Chaparhar,Chaparhar,Afghanistan,AF,Nangarhar Province,NAN,Q178471,34.32215,70.385284,0
+456,3382798,Q5072958,CITY,Chapchal,Chapchal,Afghanistan,AF,Balkh Province,BAL,Q121104,36.016388888,67.195833333,0
+457,3225466,Q2673902,ADM2,Char Asiab,Char Asiab,Afghanistan,AF,Kabul Province,KAB,Q188933,34.387222222,69.072777777,0
+458,3333700,Q5073601,CITY,Char Bagh,Char Bagh,Afghanistan,AF,Laghman Province,LAG,Q185442,34.53166667,70.28972222,0
+459,3235724,Q5073615,CITY,Char Bulak,Char Bulak,Afghanistan,AF,Balkh Province,BAL,Q121104,36.767222222,66.705277777,0
+460,3615249,Q1062874,ADM2,Char Dara District,Char Dara District,Afghanistan,AF,Kunduz Province,KDZ,Q186418,36.6933,68.8014,0
+461,3398200,Q5073643,CITY,Char Kateh,Char Kateh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.833333333,68.116666666,0
+462,3318372,Q3694342,ADM2,Charbolak,Charbolak,Afghanistan,AF,Balkh Province,BAL,Q121104,36.833333333,66.639444444,91539
+463,448,Q944395,CITY,Charikar,Charikar,Afghanistan,AF,Parwan Province,PAR,Q188157,35.016666666,69.166666666,69110
+464,3402650,Q2215285,ADM2,Charkh District,Charkh District,Afghanistan,AF,Logar Province,LOG,Q6667298,33.7967,68.9411,0
+465,3238990,Q3694271,ADM2,Charkint,Charkint,Afghanistan,AF,Balkh Province,BAL,Q121104,36.367777777,67.240277777,0
+466,3319664,Q4816628,ADM2,Charsadda District,Charsadda District,Afghanistan,AF,Ghor Province,GHO,Q186392,35.119444444,65.117777777,0
+467,3333857,Q5087397,CITY,Chasnud-e Sofla,Chasnud-e Sofla,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.921944444,71.289444444,0
+468,3394857,Q5087398,CITY,Chasnud-e `Olya,Chasnud-e `Olya,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.766666666,71.533333333,0
+469,3215411,Q2665173,ADM2,Chawkay,Chawkay,Afghanistan,AF,Kunar Province,KNR,Q188147,34.6961,70.9247,0
+470,3394406,Q13582138,CITY,Chehel Gazi,Chehel Gazi,Afghanistan,AF,Balkh Province,BAL,Q121104,36.73,66.99166667,0
+471,3351155,Q5089603,CITY,Chehel Tan,Chehel Tan,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.716666666,67.616666666,0
+472,3238931,Q5090663,CITY,Chemtal,Chemtal,Afghanistan,AF,Balkh Province,BAL,Q121104,36.6775,66.805833333,0
+473,3202976,Q5093010,CITY,Cheshmeh-ye Duzakh,Cheshmeh-ye Duzakh,Afghanistan,AF,Badghis Province,BDG,Q172052,35.087777777,63.088333333,0
+474,3238779,Q5093034,CITY,Cheshmeh-ye Shafa,Cheshmeh-ye Shafa,Afghanistan,AF,Balkh Province,BAL,Q121104,36.533333333,66.966666666,0
+475,3353554,Q5093033,CITY,Cheshmeh-ye Shir,Cheshmeh-ye Shir,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.0675,68.589166666,0
+476,3337594,Q3694243,ADM2,Chimtal,Chimtal,Afghanistan,AF,Balkh Province,BAL,Q121104,36.517777777,66.600833333,103630
+477,338,Q5101860,CITY,Chiras,Chiras,Afghanistan,AF,Sar-e Pol Province,SAR,Q182487,35.41666667,65.98333333,12779
+478,3337032,Q3696177,ADM2,Chishti Sharif District,Chishti Sharif District,Afghanistan,AF,Herat Province,HER,Q182844,34.445277777,63.957222222,0
+479,3532354,Q2720579,CITY,Chora,Chora,Afghanistan,AF,Uruzgan Province,URU,Q183028,32.85,66.08,0
+480,3249043,Q5115235,CITY,Chub Bash,Chub Bash,Afghanistan,AF,Balkh Province,BAL,Q121104,37.346666666,66.906388888,0
+481,3399815,Q5208090,CITY,Dado,Dado,Afghanistan,AF,Ghazni Province,GHA,Q180415,33.6681,68.6008,0
+482,3213789,Q5208129,CITY,Dadwal,Dadwal,Afghanistan,AF,Khost Province,KHO,Q185752,33.3103,69.7992,0
+483,3433714,Q5208719,CITY,Dahan-e Av Par,Dahan-e Av Par,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.966666666,67.866666666,0
+484,3355871,Q5208720,CITY,Dahan-e Baghdarreh,Dahan-e Baghdarreh,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.607777777,69.446944444,0
+485,3272673,Q5208721,CITY,Dahan-e Chahar Deh,Dahan-e Chahar Deh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.716666666,66.816666666,0
+486,3312495,Q5208723,CITY,Dahan-e Darreh Chasht,Dahan-e Darreh Chasht,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.95,66.533333333,0
+487,3318405,Q5208724,CITY,Dahan-e Dival,Dahan-e Dival,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.45,67.583333333,0
+488,3261809,Q5208725,CITY,Dahan-e Do Laneh,Dahan-e Do Laneh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.366666666,67.5,0
+489,3440322,Q5208726,CITY,Dahan-e Eshposhteh,Dahan-e Eshposhteh,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.301111111,68.084444444,0
+490,3345994,Q5208728,CITY,Dahan-e Fatu,Dahan-e Fatu,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.183333333,67.0,0
+491,3374064,Q5208730,CITY,Dahan-e Jow Palal,Dahan-e Jow Palal,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.866666666,67.5,0
+492,3214015,Q5208731,CITY,Dahan-e Jowkak,Dahan-e Jowkak,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.95,68.0,0
+493,3410989,Q5208732,CITY,Dahan-e Kanak,Dahan-e Kanak,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.716666666,66.866666666,0
+494,3318352,Q5208733,CITY,Dahan-e Karkareh,Dahan-e Karkareh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.983333333,68.083333333,0
+495,3407657,Q5208734,CITY,Dahan-e Khawal,Dahan-e Khawal,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.916666666,68.166666666,0
+496,3396598,Q5208735,CITY,Dahan-e Khoshkak,Dahan-e Khoshkak,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.783333333,67.983333333,0
+497,3311405,Q5208736,CITY,Dahan-e Koklan,Dahan-e Koklan,Afghanistan,AF,Badghis Province,BDG,Q172052,34.863888888,62.555833333,0
+498,3297552,Q5208737,CITY,Dahan-e Mad,Dahan-e Mad,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.933333333,67.95,0
+499,3200361,Q5208738,CITY,Dahan-e Shibar,Dahan-e Shibar,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.466666666,67.333333333,0
+500,3295477,Q5208739,CITY,Dahan-e Siahqowl,Dahan-e Siahqowl,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.559166666,68.410833333,0
+501,3348071,Q5208741,CITY,Dahan-e Valian,Dahan-e Valian,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.589722222,68.869444444,0
+502,3370077,Q4808942,ADM2,Dahana i Ghuri,Dahana i Ghuri,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.823055555,68.458333333,0
+503,524,Q5194960,CITY,Dahaneh-ye Ghowri,Dahaneh-ye Ghowri,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.9075,68.493888888,3307
+504,3418285,Q5209948,CITY,Daki,Daki,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.883333333,68.2,0
+505,3266987,Q5210882,CITY,Dali,Dali,Afghanistan,AF,Balkh Province,BAL,Q121104,37.311944444,66.576388888,0
+506,3211413,Q5211076,CITY,Dalkhaki,Dalkhaki,Afghanistan,AF,Samangan Province,SAM,Q183015,36.34583333,67.955,0
+507,3218746,Q5211936,CITY,Daman,Daman,Afghanistan,AF,Kandahar Province,KAN,Q173808,31.619722222,65.897222222,0
+508,3346874,Q3012608,ADM2,Daman District,Daman District,Afghanistan,AF,Kandahar Province,KAN,Q173808,31.220555555,65.749722222,0
+509,3318181,Q2705706,ADM2,Dand Aw Patan District,Dand Aw Patan District,Afghanistan,AF,Paktia Province,PIA,Q182493,33.791666666,69.910833333,0
+510,3214790,Q2663252,ADM2,Dangam District,Dangam District,Afghanistan,AF,Kunar Province,KNR,Q188147,34.9925,71.4189,0
+511,3410839,Q3696140,ADM2,Dara-I-Nur,Dara-I-Nur,Afghanistan,AF,Nangarhar Province,NAN,Q178471,34.706666666,70.585833333,0
+512,3325693,Q2663248,ADM2,Dara-I-Pech,Dara-I-Pech,Afghanistan,AF,Kunar Province,KNR,Q188147,34.954444444,70.816944444,0
+513,3296351,Q5222015,CITY,Darabad,Darabad,Afghanistan,AF,Balkh Province,BAL,Q121104,36.950277777,66.927222222,0
+514,3415211,Q5222045,ADM2,Darah Hazara District,Darah Hazara District,Afghanistan,AF,Panjshir Province,PAN,Q181235,35.235555555,69.77,0
+515,3259363,Q13217376,ADM2,Darah Sof Balla,Darah Sof Balla,Afghanistan,AF,Samangan Province,SAM,Q183015,35.680833333,67.2825,0
+516,3387562,Q13217378,ADM2,Darah Sof Payan,Darah Sof Payan,Afghanistan,AF,Samangan Province,SAM,Q183015,36.025,67.347222222,0
+517,3368096,Q5222123,CITY,Darayem,Darayem,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.866666666,70.383333333,0
+518,3268965,Q2670900,ADM2,Darayim District,Darayim District,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.8725,70.46861111,0
+519,3269865,Q5222625,CITY,Darghani,Darghani,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.133333333,67.6,0
+520,3217690,Q5224043,CITY,Darmadar,Darmadar,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.2,71.416666666,0
+521,3354927,Q5224050,CITY,Darmarakh,Darmarakh,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.333333333,71.483333333,0
+522,3392384,Q3918446,ADM2,Darqad District,Darqad District,Afghanistan,AF,Takhar Province,TAK,Q186395,37.45379,69.49901,0
+523,3437897,Q5224453,CITY,Darreh Javay,Darreh Javay,Afghanistan,AF,Badakhshan Province,BDS,Q165376,38.247777777,70.793611111,0
+524,3312902,Q5224270,CITY,Darreh-ye Altamur,Darreh-ye Altamur,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.383333333,67.5,0
+525,3265896,Q5224272,CITY,Darreh-ye Awd,Darreh-ye Awd,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.916666666,66.466666666,0
+526,3383258,Q5224288,CITY,Darreh-ye Bum,Darreh-ye Bum,Afghanistan,AF,Badghis Province,BDG,Q172052,35.135277777,63.468888888,0
+527,3195316,Q5224293,CITY,Darreh-ye Darvazeh,Darreh-ye Darvazeh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.75,67.516666666,0
+528,3423275,Q5224315,CITY,Darreh-ye Jalmesh,Darreh-ye Jalmesh,Afghanistan,AF,Bamyan Province,BAM,Q171382,35.010833333,68.061111111,0
+529,3345791,Q5224316,CITY,Darreh-ye Joval,Darreh-ye Joval,Afghanistan,AF,Badghis Province,BDG,Q172052,34.740277777,62.6725,0
+530,3251777,Q5224319,CITY,Darreh-ye Kajak,Darreh-ye Kajak,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.483333333,67.5,0
+531,3333954,Q5224331,CITY,Darreh-ye Navora,Darreh-ye Navora,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.333333333,67.616666666,0
+532,3196894,Q5224334,CITY,Darreh-ye Pay Nav,Darreh-ye Pay Nav,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.3,67.616666666,0
+533,3364440,Q5224343,CITY,Darreh-ye Pishkan,Darreh-ye Pishkan,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.841944444,70.785833333,0
+534,3195590,Q5224352,CITY,Darreh-ye Shu,Darreh-ye Shu,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.551944444,69.4875,0
+535,3268478,Q5224353,CITY,Darreh-ye Suf,Darreh-ye Suf,Afghanistan,AF,Balkh Province,BAL,Q121104,35.934166666,67.18,0
+536,3258536,Q5226339,CITY,Darunta,Darunta,Afghanistan,AF,Nangarhar Province,NAN,Q178471,34.47888889,70.36222222,0
+537,3668653,Q2673995,ADM2,Darwaz,Darwaz,Afghanistan,AF,Badakhshan Province,BDS,Q165376,38.227777777,70.911388888,0
+538,3431156,Q950043,ADM2,Darwazi Bala,Darwazi Bala,Afghanistan,AF,Badakhshan Province,BDS,Q165376,38.128333333,71.225,0
+539,3036558,Q21771962,CITY,Darwāzkay,Darwāzkay,Afghanistan,AF,Kunar Province,KNR,Q188147,35.024444444,71.0475,111
+540,366,Q5196429,CITY,Darzab,Darzab,Afghanistan,AF,Jowzjan Province,JOW,Q183036,35.9783,65.3792,9642
+541,3365353,Q3694393,ADM2,Darzab,Darzab,Afghanistan,AF,Jowzjan Province,JOW,Q183036,36.004444444,65.372777777,0
+542,967,Q21758408,CITY,Dasht-e Archī,Dasht-e Archī,Afghanistan,AF,Kunduz Province,KDZ,Q186418,37.133333333,69.166666666,8263
+543,3329400,Q5226673,CITY,Dasht-e Borsoneh,Dasht-e Borsoneh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.8,67.8,0
+544,3360606,Q5226696,CITY,Dasht-e Sachak,Dasht-e Sachak,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.833333333,66.633333333,0
+545,3393231,Q2214871,ADM2,Dashti Qala District,Dashti Qala District,Afghanistan,AF,Takhar Province,TAK,Q186395,37.202222222,69.501666666,35347
+546,3285213,Q3696057,ADM2,Dawlat Abad,Dawlat Abad,Afghanistan,AF,Faryab Province,FYB,Q173830,36.421388888,64.896944444,0
+547,3284596,Q5242376,ADM2,Dawlat Shah,Dawlat Shah,Afghanistan,AF,Laghman Province,LAG,Q185442,34.9528,70.07,0
+548,3335089,Q2714244,ADM2,Dawlat Yar District,Dawlat Yar District,Afghanistan,AF,Ghor Province,GHO,Q186392,34.580277777,65.751388888,0
+549,3354497,Q960735,ADM2,Dawlatabad,Dawlatabad,Afghanistan,AF,Balkh Province,BAL,Q121104,37.064166666,66.798055555,0
+550,3467202,Q3309249,ADM2,Day Mirdad,Day Mirdad,Afghanistan,AF,Maidan Wardak Province,WAR,Q183056,34.2164,68.2952,0
+551,3442310,Q5244593,CITY,De Loy Wiyaleh Kelay,De Loy Wiyaleh Kelay,Afghanistan,AF,Helmand Province,HEL,Q173821,30.59611111,64.0075,0
+552,3220117,Q5244641,CITY,De Mulla Samandar Sahib Kelay,De Mulla Samandar Sahib Kelay,Afghanistan,AF,Paktika Province,PKA,Q185575,32.585,68.32972222,0
+553,3205880,Q5252017,CITY,Deh Berenj Qal`eh,Deh Berenj Qal`eh,Afghanistan,AF,Badghis Province,BDG,Q172052,34.75,63.266666666,0
+554,3201974,Q5252050,CITY,Deh Gholaman,Deh Gholaman,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.95,73.116666666,0
+555,3299991,Q5252055,CITY,Deh Hezareh,Deh Hezareh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.75,67.783333333,0
+556,3324157,Q5252099,CITY,Deh Now,Deh Now,Afghanistan,AF,Balkh Province,BAL,Q121104,37.027777777,66.748333333,0
+557,3421391,Q1183073,ADM2,Deh Rahwod District,Deh Rahwod District,Afghanistan,AF,Uruzgan Province,URU,Q183028,32.62638889,65.47027778,0
+558,3203132,Q2342330,CITY,Deh Rawood,Deh Rawood,Afghanistan,AF,Uruzgan Province,URU,Q183028,32.62413,65.45966,0
+559,3211907,Q3769083,ADM2,Deh Sabz,Deh Sabz,Afghanistan,AF,Kabul Province,KAB,Q188933,34.753513,69.267269,0
+560,3318816,Q5251970,CITY,Deh-e Salah,Deh-e Salah,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.689166666,69.314166666,0
+561,3244478,Q1182942,CITY,Dehdadi,Dehdadi,Afghanistan,AF,Balkh Province,BAL,Q121104,36.662222222,66.995277777,0
+562,3303005,Q5252245,CITY,Dehestan,Dehestan,Afghanistan,AF,Badghis Province,BDG,Q172052,34.691111111,62.918888888,0
+563,3259054,Q5252324,CITY,Dehnawe Farza,Dehnawe Farza,Afghanistan,AF,Kabul Province,KAB,Q188933,34.7897,69.0372,0
+564,3413529,Q5253087,CITY,Delak,Delak,Afghanistan,AF,Ghor Province,GHO,Q186392,34.4,65.916666666,0
+565,3243201,Q5268265,CITY,Dewlak,Dewlak,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.2,67.65,0
+566,3424073,Q1647702,ADM2,Dey Chopan District,Dey Chopan District,Afghanistan,AF,Zabul Province,ZAB,Q139126,32.613333333,66.691111111,0
+567,3372572,Q429594,ADM2,Dih Yak District,Dih Yak District,Afghanistan,AF,Ghazni Province,GHA,Q180415,33.476413,68.763027,0
+568,3340800,Q5276655,ADM2,Dila District,Dila District,Afghanistan,AF,Paktika Province,PKA,Q185575,32.56376,68.13115,0
+569,3380146,Q2456306,ADM2,Dishu District,Dishu District,Afghanistan,AF,Helmand Province,HEL,Q173821,29.879166666,63.174444444,0
+570,3395153,Q5283770,CITY,Div Khaneh-ye Pa'in,Div Khaneh-ye Pa'in,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.815833333,67.1525,0
+571,3290845,Q5283809,CITY,Divalak-e `Olya,Divalak-e `Olya,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.933333333,68.133333333,0
+572,3265244,Q5285927,CITY,Do Ab,Do Ab,Afghanistan,AF,Bamyan Province,BAM,Q171382,35.365833333,67.797777777,0
+573,3222737,Q5285937,CITY,Do Ab-e Mikh-e Zarrin,Do Ab-e Mikh-e Zarrin,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.264444444,67.993055555,0
+574,3435401,Q5285938,CITY,Do Ab-e Valian,Do Ab-e Valian,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.48,68.878055555,0
+575,3400612,Q5286223,CITY,Do Ru,Do Ru,Afghanistan,AF,Bamyan Province,BAM,Q171382,35.363333333,67.740833333,0
+576,3299855,Q5288407,CITY,Dogor Gunt,Dogor Gunt,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.793333333,72.015833333,0
+577,3340384,Q5288721,CITY,Dokani,Dokani,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.733333333,67.85,0
+578,3607673,Q2163607,CITY,Dowlatabad,Dowlatabad,Afghanistan,AF,Balkh Province,BAL,Q121104,36.99,66.822222222,6111
+579,3288434,Q5303635,CITY,Dowra'id,Dowra'id,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.983333333,67.933333333,0
+580,3396000,Q5303662,CITY,Dowshi,Dowshi,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.608611111,68.685833333,0
+581,3368268,Q3696107,ADM2,Du Ab,Du Ab,Afghanistan,AF,Nuristan Province,NUR,Q167485,35.213888888,70.373333333,0
+582,3281448,Q2714251,ADM2,Du Layna District,Du Layna District,Afghanistan,AF,Ghor Province,GHO,Q186392,34.118611111,65.008055555,0
+583,3271148,Q5311730,CITY,Dudgah,Dudgah,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.763611111,70.381111111,0
+584,3250390,Q2217855,ADM2,Dur Baba,Dur Baba,Afghanistan,AF,Nangarhar Province,NAN,Q178471,34.098055555,70.963055555,0
+585,3247414,Q5316145,CITY,Duraj,Duraj,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.931944444,70.72,0
+586,3395209,Q5316691,CITY,Durman,Durman,Afghanistan,AF,Badakhshan Province,BDS,Q165376,38.233333333,70.783333333,0
+587,3016076,Q3694442,ADM2,Dushi,Dushi,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.620833333,68.665833333,57000
+588,3414181,Q5353521,CITY,Elasayel,Elasayel,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.95,68.2,0
+589,3196567,Q5375186,CITY,Enam,Enam,Afghanistan,AF,Logar Province,LOG,Q6667298,34.08333333,68.9,0
+590,3445022,Q5385782,CITY,Erganah,Erganah,Afghanistan,AF,Bamyan Province,BAM,Q171382,35.193055555,67.467222222,0
+591,3202844,Q5397881,CITY,Eshmorgh,Eshmorgh,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.981388888,72.411111111,0
+592,3384528,Q5398007,CITY,Eskan,Eskan,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.638888888,70.854722222,0
+593,3288109,Q5398022,CITY,Eskar,Eskar,Afghanistan,AF,Baghlan Province,BGL,Q170309,35.555,68.5225,0
+594,3322438,Q5398036,CITY,Eskatul,Eskatul,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.414444444,71.271388888,0
+595,3313808,Q1367888,CITY,Eslām Chūngar,Eslām Chūngar,Afghanistan,AF,Jowzjan Province,JOW,Q183036,37.283333333,66.45,0
+596,3327887,Q5434467,CITY,Faqiran,Faqiran,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.133333333,67.733333333,0
+597,3392161,Q5434577,CITY,Far Ghambowl,Far Ghambowl,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.235,70.3625,0
+598,518,Q593156,CITY,Farah,Farah,Afghanistan,AF,Farah Province,FRA,Q180330,32.343611111,62.119444444,54000
+599,3277202,Q2399439,ADM2,Farah City District,Farah City District,Afghanistan,AF,Farah Province,FRA,Q180330,32.21768,62.25992,0
+600,3257051,Q5434830,ADM2,Farang Wa Gharu,Farang Wa Gharu,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.136944444,69.681388888,0
+601,3437853,Q5435085,CITY,Farghamiru,Farghamiru,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.747777777,70.825555555,0
+602,3349486,Q5435086,CITY,Farghamu,Farghamu,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.385833333,70.745555555,0
+603,3415170,Q3918453,ADM2,Farkhar District,Farkhar District,Afghanistan,AF,Takhar Province,TAK,Q186395,36.47,69.960833333,0
+604,3723998,Q21757432,CITY,Farkhār,Farkhār,Afghanistan,AF,Takhar Province,TAK,Q186395,36.572777777,69.857777777,10480
+605,3384461,Q2714318,ADM2,Farsi District,Farsi District,Afghanistan,AF,Herat Province,HER,Q182844,33.6974,63.0921,0
+606,3211064,Q3918456,ADM2,Farza,Farza,Afghanistan,AF,Kabul Province,KAB,Q188933,34.793888888,69.017777777,0
+607,3413582,Q5437916,CITY,Fatmasti,Fatmasti,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.816666666,67.883333333,0
+608,878,Q156558,CITY,Fayzabad,Fayzabad,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.121944444,70.583333333,44421
+609,3282674,Q2887829,ADM2,Fayzabad District,Fayzabad District,Afghanistan,AF,Badakhshan Province,BDS,Q165376,37.05083333,70.57972222,0
+610,3295692,Q3504927,ADM2,Fayzabad District,Fayzabad District,Afghanistan,AF,Jowzjan Province,JOW,Q183036,36.704444444,66.329722222,0
+611,3434033,Q5445211,ADM2,Feroz Nakhchir,Feroz Nakhchir,Afghanistan,AF,Samangan Province,SAM,Q183015,36.456388888,67.577222222,0
+612,3322787,Q5464839,CITY,Folowl-e Bala,Folowl-e Bala,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.211666666,69.259444444,0
+613,3243645,Q5464841,CITY,Folowl-e Pa'in,Folowl-e Pa'in,Afghanistan,AF,Baghlan Province,BGL,Q170309,36.22,69.250555555,0
+614,3017372,Q5474038,CITY,Fotur,Fotur,Afghanistan,AF,Badakhshan Province,BDS,Q165376,36.686111111,71.64,436
+615,3264560,Q5518920,CITY,Galleh Chaghar,Galleh Chaghar,Afghanistan,AF,Badghis Province,BDG,Q172052,34.747777777,62.782777777,0
+616,3637045,Q984094,CITY,Gandamak,Gandamak,Afghanistan,AF,Nangarhar Province,NAN,Q178471,34.2892,70.0383,0
+617,3224536,Q5522156,CITY,Gardan Deh,Gardan Deh,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.116666666,67.6,0
+618,3237251,Q5522157,CITY,Gardan Kichah,Gardan Kichah,Afghanistan,AF,Bamyan Province,BAM,Q171382,34.05,67.6,0
+619,364,Q467632,CITY,Gardez,Gardez,Afghanistan,AF,Paktia Province,PIA,Q182493,33.593055555,69.229722222,70000
